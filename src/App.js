@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import GraphView from './components/graph';
+// import GraphView from './components/graph';
 import MainGraph from './components/main_graph'
 
 function App() {
